@@ -8,6 +8,7 @@ Nova is a powerful AI-based voice assistant built using Python. It provides both
 
 Below is a list of Nova's core features with brief explanations:
 
+
 | Feature | Description |
 |--------|-------------|
 | 🎙️ **Voice Recognition** | Listens to your commands using `speech_recognition` and a microphone. |
@@ -46,17 +47,23 @@ Below is a list of Nova's core features with brief explanations:
 ## 🔧 How to Run Locally
 
 1. **Clone the repository**
+   
 2. **Install the dependencies**
    **pip install -r requirements.txt**
+   
 3. **Set API Keys**
+   
    Replace placeholders in Nova.py:
    model_api_key_here (Hugging Face)
    your weather-api key here (OpenWeather)
    Google_api_key_here & search_engine_id_here
+   
 4. **Run the app**
     python Nova.py
    
+   
 **💡 Example Commands**
+
 "What's the weather in Lahore?"
 
 "New work complete the report"
@@ -85,7 +92,9 @@ Wikipedia API
 pywhatkit
 
 💼 Author
+
 👤 Anmol Mandhan
+
 💻 Django | Python | Frontend Developer | AI/ML
 
 📎 LinkedIn Profile | www.linkedin.com/in/anmol-mandhan-6a80362a8
