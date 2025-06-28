@@ -49,16 +49,22 @@ Below is a list of Nova's core features with brief explanations:
 1. **Clone the repository**
    
 2. **Install the dependencies**
+   
    **pip install -r requirements.txt**
    
 3. **Set API Keys**
    
    Replace placeholders in Nova.py:
+   
    model_api_key_here (Hugging Face)
+   
    your weather-api key here (OpenWeather)
+   
    Google_api_key_here & search_engine_id_here
    
+   
 4. **Run the app**
+   
     python Nova.py
    
    
@@ -81,6 +87,7 @@ Below is a list of Nova's core features with brief explanations:
 "Send WhatsApp message"
 
 **🙌 Credits**
+
 Hugging Face
 
 OpenWeatherMap
