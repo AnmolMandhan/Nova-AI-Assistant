@@ -1,12 +1,12 @@
-# Nova - AI Assistant 🤖
+# Virtual Assistant 🤖
 
-Nova is a powerful AI-based voice assistant built using Python. It provides both GUI and voice-based interactions to help users with a wide range of tasks like checking the weather, playing music, web searches, to-do list management, sending emails, and answering general questions using an AI model.
+Virtual Assistant is a powerful AI-based voice assistant built using Python. It provides both GUI and voice-based interactions to help users with a wide range of tasks like checking the weather, playing music, web searches, to-do list management, sending emails, and answering general questions using an AI model.
 
 ---
 
 ## ✨ Features & Functionality
 
-Below is a list of Nova's core features with brief explanations:
+Below is a list of Virtual Assistant core features with brief explanations:
 
 
 | Feature | Description |
